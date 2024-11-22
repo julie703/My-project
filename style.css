@@ -1,0 +1,13 @@
+.list{color:brown;}
+#header{
+    color: black; 
+    border-block-start: solid;
+    border-color: brown;
+    text-align: center;
+    }
+strong {font-weight: bold;}
+body {background-color: powderblue;}
+#title{
+    color: black;
+    text-align: center;
+}
